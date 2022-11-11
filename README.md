@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @krchandler27
+- 👋 Hi, I’m Katie! =D
 - 👀 I’m interested in ... learning more about coding and getting involved in the coding community
-- 🌱 I’m currently learning ... how to code, I start a 6 month bootcamp October 31st, 2022
+- 🌱 I’m currently learning ... HTML and CSS.
 - 💞️ I’m looking to collaborate on ... projects and to mostly get help from you folks that are much more well versed than me!
 - 📫 How to reach me ... krchandler27@gmail.com
 
