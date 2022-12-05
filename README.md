@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katie!;
 - 👀 I’m interested in ... learning more about coding and finding a coding position;
 - 🌱 I’m currently learning ... HTML, CSS, and JavaScript;
-- 💞️ I’m looking to collaborate on ... projects interest me;
+- 💞️ I’m looking to collaborate on ... projects that interest me;
 - 📫 How to reach me ... krchandler27@gmail.com;
 
 <!---
